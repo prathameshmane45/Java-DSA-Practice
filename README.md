@@ -5,7 +5,7 @@ This repository contains a well-organized collection of Java programs and Data S
 
 Folder Structure
 
-Arrays – Basic to advanced array problems
+Arrays – Basic to advanced array problems <br/>
 ArrayList – Dynamic arrays and operations
 Bit Manipulation – Bitwise operators, tricks, and problems
 ConditionalStatement – if-else, switch, nested conditions
